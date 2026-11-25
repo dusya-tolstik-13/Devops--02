@@ -27,6 +27,8 @@
 ***** /home/ubuntu/weather.sh Perm > /var/www/html/index.html
 
 Скрипт запускается каждую минуту и записывает результат в индексный файл веб-сервера.
+<img width="868" height="571" alt="image" src="https://github.com/user-attachments/assets/629c4820-9f63-4362-b8d4-090351552c5f" />
+
 
 5. Проверка результата
 
