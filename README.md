@@ -22,7 +22,7 @@
 
 Настроено задание в crontab:
 
-* * * * * /home/ubuntu/weather.sh Perm > /var/www/html/index.html
+***** /home/ubuntu/weather.sh Perm > /var/www/html/index.html
 
 Скрипт запускается каждую минуту и записывает результат в индексный файл веб-сервера.
 
